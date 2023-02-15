@@ -24,13 +24,10 @@ function Footer() {
             mb="30px"
             color={shades.secondary[500]}
           >
-            ECOMMER
+            SimplyBuy
           </Typography>
           <div>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat
+          Welcome to SimplyBuy, your one-stop online shop for all your essential purchases. At SimplyBuy, we believe that shopping should be a simple and hassle-free experience, which is why we offer a wide range of high-quality products at competitive prices.
           </div>
         </Box>
 
@@ -59,12 +56,12 @@ function Footer() {
             Contact Us
           </Typography>
           <Typography mb="30px">
-            50 north Whatever Blvd, Washington, DC 10501
+            50 north Whatever Blvd, Johannesburg, 2001
           </Typography>
           <Typography mb="30px" sx={{ wordWrap: "break-word" }}>
-            Email: mredwardroh@gmail.com
+            Email: SimplyBuy@gmail.com
           </Typography>
-          <Typography mb="30px">(222)333-4444</Typography>
+          <Typography mb="30px">(011) 333-4444</Typography>
         </Box>
       </Box>
     </Box>
